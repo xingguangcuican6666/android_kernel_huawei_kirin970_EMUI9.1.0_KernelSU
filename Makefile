@@ -17,7 +17,13 @@ MAKEFLAGS += -rR --include-dir=$(CURDIR)
 
 # Avoid funny character set dependencies
 unexport LC_ALL
+# # ...existing code...
+
+# 添加 -fPIC 选项
 KBUILD_CFLAGS += -fPIC
+EXTRA_CFLAGS += -fPIC
+
+# ...existing code...KBUILD_CFLAGS += -fPIC
 LC_COLLATE=C
 LC_NUMERIC=C
 export LC_COLLATE LC_NUMERIC
