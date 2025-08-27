@@ -20,4 +20,4 @@
 
 Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne
 
-![EDGEONE]([https://static.jyshare.com/images/runoob-logo.png](https://github.com/xingguangcuican6666/android_kernel_huawei_kirin970_EMUI9.1.0_KernelSU/blob/Github-Action/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png))
+![EDGEONE](https://github.com/xingguangcuican6666/android_kernel_huawei_kirin970_EMUI9.1.0_KernelSU/blob/Github-Action/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
