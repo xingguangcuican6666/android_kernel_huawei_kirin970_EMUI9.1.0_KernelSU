@@ -12,3 +12,11 @@
 [教程](https://github.com/Coconutat/HuaweiP10-GSI-And-Modify-Tutorial/wiki/7.KernelSU%E9%80%82%E9%85%8DEMUI9%E6%88%969.1.0%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%86%85%E6%A0%B8)  
 同时此项目也可以作为参考。
 
+"本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助：EdgeOne 提供长期有效的免费套餐，包含不限量的流量和请求，覆盖中国大陆节点，且无任何超额收费，感兴趣的朋友可以点击下面的链接领取"
+
+亚洲最佳CDN、边缘和安全解决方案 - Tencent EdgeOne
+
+"CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne: EdgeOne offers a long-term free plan with unlimited traffic and requests, covering Mainland China nodes, with no overage charges. Interested friends can click the link below to claim it"
+
+Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne
+
